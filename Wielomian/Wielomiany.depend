@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1669731957 source:c:\users\adam\desktop\studia\programowanie obiektowe\wielomiany\wielomiany.cpp
+	<iostream>
+	"KlasaWielomian.h"
+
+1667912500 c:\users\adam\desktop\studia\programowanie obiektowe\wielomiany\parsowanie.h
+
+1667912481 source:c:\users\adam\desktop\studia\programowanie obiektowe\wielomiany\parsowanie.cpp
+	<iostream>
+	<cstring>
+	"Parsowanie.h"
+
+1669731056 source:c:\users\adam\desktop\studia\programowanie obiektowe\wielomiany\klasawielomian.cpp
+	<iostream>
+	<cstring>
+	"KlasaWielomian.h"
+
+1669732362 c:\users\adam\desktop\studia\programowanie obiektowe\wielomiany\klasawielomian.h
+	<iostream>
+
+1670005304 source:c:\users\adam\desktop\studia\programowanie obiektowe\zadanie-1-klasa-wielomianow-rmaxq\wielomiany\wielomiany.cpp
+	<iostream>
+	"KlasaWielomian.h"
+
+1670004479 c:\users\adam\desktop\studia\programowanie obiektowe\zadanie-1-klasa-wielomianow-rmaxq\wielomiany\klasawielomian.h
+	<iostream>
+
+1670006757 source:c:\users\adam\desktop\studia\programowanie obiektowe\zadanie-1-klasa-wielomianow-rmaxq\wielomiany\klasawielomian.cpp
+	<iostream>
+	<cstring>
+	"KlasaWielomian.h"
+
