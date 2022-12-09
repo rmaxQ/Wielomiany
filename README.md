@@ -1,4 +1,4 @@
-# polynomials
+# Polynomials
 Simple class project in C++ about polynomials
 
 # Assumptions of the project:
